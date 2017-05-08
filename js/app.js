@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function() {
 
 
@@ -53,7 +54,7 @@ $(document).ready(function() {
       } else if(totalMoves === 9){
         alert('draw');
       }
-      
+
     }
 
     function switchPlayer() {
@@ -88,7 +89,3 @@ $(document).ready(function() {
     $('.col-xs-4').removeClass('playerTwo');
     totalMoves = 0;
   });
-
-
-
-});
