@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 $(document).ready(function() {
 
 
@@ -89,3 +88,4 @@ $(document).ready(function() {
     $('.col-xs-4').removeClass('playerTwo');
     totalMoves = 0;
   });
+});

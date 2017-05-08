@@ -2,27 +2,43 @@
   margin-top: 10px;
 }
 
+html {
+  background: url('https://media.giphy.com/media/BEztMcLfpNJL2/giphy.gif')
+}
+
+h1 {
+  color: black;
+  font-size: 60px;
+}
+
 .box {
-<<<<<<< HEAD
-  border: 6px solid black;
-  opacity: .5;
-  height: 150px;
+  border: 6px solid grey;
+  height: 180px;
   align-content: center;
 }
 body {
-  background-color: #14bdac;
+  background: none;
+}
+
+#reset{
+
+}
+
+.col-xs-4 {
+  background-color: black;
 }
 .playerOne {
-  background-image: url('https://cdn0.iconfinder.com/data/icons/solid-line-essential-ui-icon-set/512/essential_set_close-128.png');
+  background-image: url('https://media.giphy.com/media/tWHk9WtvGC4Sc/giphy.gif');
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #003300;
+
+
+  ;
 }
 .playerTwo {
-  background-image: url('https://cdn2.iconfinder.com/data/icons/font-awesome/1792/circle-o-128.png');
+  background-image: url('https://media.giphy.com/media/l2SpUXr2q90X1Pqgw/giphy.gif');
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #800000;
 
 }
 .currLetter {
